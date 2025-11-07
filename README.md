@@ -5,15 +5,15 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 
                 STEPS
 
-Cleaned and trimmed the entire dataset to remove unnecessary spaces that created duplicate entries.
+- Cleaned and trimmed the entire dataset to remove unnecessary spaces that created duplicate entries.
 
-Converted the dataset into a table and removed all duplicate rows for consistency.
+-Converted the dataset into a table and removed all duplicate rows for consistency.
 
-Performed a quick scan to identify blank cells, incorrect values, and errors.
+-Performed a quick scan to identify blank cells, incorrect values, and errors.
 
-Filled missing item names (including those labeled “UNKNOWN” or “ERROR”) using the relationship between item name and price.
+-Filled missing item names (including those labeled “UNKNOWN” or “ERROR”) using the relationship between item name and price.
 
-Each item had a specific price (e.g., Coffee = 1).
+-Each item had a specific price (e.g., Coffee = 1).
 
 I filtered rows where price = 1, reviewed errors, and used copy-and-replace to fill missing values accurately.
 
