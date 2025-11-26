@@ -39,19 +39,13 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 - When two items shared the same price, I used an Excel formula to randomly
    assign names to balance the data: =IF(D8=3, IF(ISEVEN(ROW()), "Juice", "Cake"), B8)
 
-- Calculated missing Price values using:
+- Calculated missing Price values using: Total Spent / Quantity
 
-=Total Spent / Quantity
-
-- Calculated missing Quantity values using:
-
-=Total Spent / Price per Unit
+- Calculated missing Quantity values using: Total Spent / Price per Unit
 
 - Filled missing Price per Unit values using the IFS function to assign each price to its correct item.
 
-- Calculated missing Total Spent values using:
-
-=Quantity * Price
+- Calculated missing Total Spent values using: =Quantity * Price
 
 - Filled missing Dates with the previous valid date, assuming they were purchased on the same day.
 
