@@ -1,6 +1,7 @@
 
 # Table of Content data_cleaning_project  (Excel)
 -[Project Overview](#Project-Overview)
+-[Data Cleaning Steps](steps)
 
 
 
