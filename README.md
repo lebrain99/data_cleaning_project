@@ -65,7 +65,11 @@ Calculated missing Total Spent values using:
  Tool used: MYSQL
  - I used SQl to find the highest item quantity sold
  - I ranked the most profitable incoming by using windows function and cte to see which items brings in the highest profit
- - 
+
+# Interactive dashboards
+Tools used: 
+- [**Tableau**](https://public.tableau.com/views/Book1_17628679842870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZGJhYmZmYzQtMDM4OS00MmI0LWI1ZWYtMDM4OTE4YjBkNmI4IiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
   DATA ANALYSIS AND INSIGHT
   
