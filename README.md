@@ -3,7 +3,7 @@
 - [Project Overview](#Project-Overview)
 - [Tools Used](#Tools-Used)
 - [Data Cleaning Steps](#DATA-CLEANING-AND-PREPARATION)
-- [Exploratory analysis](#Exploratory-analysis)
+- [Exploratory analysis](#insights-and-recommendations)
 
 
 
@@ -70,7 +70,7 @@ Tools used:
 - [**Tableau**](https://public.tableau.com/views/Book1_17628679842870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZGJhYmZmYzQtMDM4OS00MmI0LWI1ZWYtMDM4OTE4YjBkNmI4IiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
- # DATA ANALYSIS AND INSIGHT
+ #  INSIGHTS AND RECOMMENDATIONS
  - Product Performance. Salad is the top revenue-generating product, showing that customers are willing to pay a premium for it. Its order volume sitting above the median confirms it's both popular and profitable. Coffee leads in total quantities sold, meaning it is the most frequently purchased everyday item. This indicates high demand but likely lower margins compared to premium items like salad. Cookies record the lowest spend and quantity, suggesting limited customer interest or possibly insufficient promotion or visibility.
 
 - Sales Trends by Day. Thursday has the highest sales, making it the café’s strongest operational day. This could be linked to mid-week customer behavior, promotions, or workplace routines. Weekends (especially Sunday) show a noticeable drop in sales, signaling a potential opportunity to introduce weekend bundles, discounts, or promotions to boost traffic.
@@ -86,7 +86,7 @@ Tools used:
 
 - Total Orders & Revenue: With 9,959 total orders and $88.94K in revenue, the café shows stable customer activity and healthy sales volume. The gap between total orders and revenue highlights which products generate high volume vs. high value, helping guide future product priorities.
 
- # Recommendations
+
 
  
   
