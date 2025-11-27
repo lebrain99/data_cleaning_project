@@ -56,8 +56,14 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 
  # Exploratory analysis
  Tool used: MYSQL
- - I used SQl to find the highest item quantity sold
- - I ranked the most profitable incoming by using windows function and cte to see which items brings in the highest profit
+ - Identified the highest item quantity sold using aggregate function SUM() and GROUP BY to determine which products drive the most customer demand.
+
+- Ranked the most profitable items by applying window function DENSE_RANK() and CTEs to compare revenue across products and identify which items contribute most to income.
+
+- Analyzed customer purchasing behavior by breaking down sales by day of the week using DATE_FORMAT() and grouping, helping uncover peak traffic periods.
+
+- Performed payment method segmentation using grouping and conditional totals to understand how customers prefer to pay (Cash vs. Credit Card vs. Digital Wallet).
+ 
 
 # Interactive dashboards
 Tools used: 
