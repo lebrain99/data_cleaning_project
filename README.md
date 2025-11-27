@@ -1,5 +1,5 @@
 
-# Table of Content 
+# CONTENT
 - [Project Overview](#Project-Overview)
 - [Tools Used](#Tools-Used)
 - [Data Cleaning Steps](#DATA-CLEANING-AND-PREPARATION)
@@ -7,12 +7,12 @@
 
 
 
-# Project Overview
+# PROJECT OVERVIEW
 This project demonstrates my data cleaning, transformation, and exploratory analysis process using Microsoft Excel.
 The goal was to clean a messy dataset by handling missing values, removing duplicates, and preparing the data for meaningful analysis and visualization.
 
 
-#         Tools Used
+#         TOOLS USED
 - Microsoft Excel
 
 - SQL
