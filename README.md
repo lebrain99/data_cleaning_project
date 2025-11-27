@@ -21,7 +21,7 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 
 - TABLEAU
 
- #               STEPS
+ #              DATA CLEANING AND PREPARATION
  - Tool used: Excel
 
 - Cleaned and trimmed the entire dataset to remove unnecessary spaces that created duplicate entries.
